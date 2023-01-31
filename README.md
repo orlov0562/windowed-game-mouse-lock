@@ -17,3 +17,4 @@ Then find the window you wish to lock to and wait 5 seconds. Changing focus from
 
 ## Dev docs
 - https://manpages.ubuntu.com/manpages/kinetic/man3/XWarpPointer.3.html
+- https://gitlab.freedesktop.org/xorg/lib/libx11/-/blob/master/src/WarpPtr.c
