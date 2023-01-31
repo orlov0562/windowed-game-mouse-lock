@@ -14,3 +14,6 @@ This node script finds a target window after 5 seconds then locks the cursor to 
 >   $ npm start 1920
 
 Then find the window you wish to lock to and wait 5 seconds. Changing focus from that window with Alt-Tab or something else disables the lock. Ctrl-C to exit.
+
+## Dev docs
+- https://manpages.ubuntu.com/manpages/kinetic/man3/XWarpPointer.3.html
